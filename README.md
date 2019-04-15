@@ -1,2 +1,11 @@
 # meal-deal-randomiser
-Created with CodeSandbox
+
+Deciding what meal deal to get is impossible. Let this decide for you.
+
+## Install
+
+`npm install`
+
+## Run
+
+`npm start`
